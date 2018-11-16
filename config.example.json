@@ -1,6 +1,6 @@
 {
 	"threads": 2,
-	"coin": "Music",
+	"coin": "DBIX",
 	"name": "main",
 
 	"proxy": {
